@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="service_desc">用于定时截图并点击游戏里的「收取一键」「派遣一键」。仅在你点「开始」后才会操作。</string>
+</resources>
